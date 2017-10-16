@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-[Innovation and Design Thinking](https://www.meetup.com/Innovation-Design-Thinking/) meetup.
+## Welcome to [Innovation and Design Thinking](https://www.meetup.com/Innovation-Design-Thinking/) meetup.
 
 - [First meetup - August 1st](https://www.meetup.com/Innovation-Design-Thinking/events/241123476/) details.
 
