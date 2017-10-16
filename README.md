@@ -1,8 +1,16 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/diarmaidm/innovation-design-thinking/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+[Innovation and Design Thinking](https://www.meetup.com/Innovation-Design-Thinking/) meetup.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [First meetup - August 1st](https://www.meetup.com/Innovation-Design-Thinking/events/241123476/) details.
+
+- [Meetup #2 - September 5th](https://www.meetup.com/Innovation-Design-Thinking/events/242411821/) details.
+
+- [Meetup #3 - October 3rd](https://www.meetup.com/Innovation-Design-Thinking/events/242486546/) details.
+
+
+
+
 
 ### Markdown
 
