@@ -1,9 +1,11 @@
-## Welcome to [Innovation and Design Thinking](https://www.meetup.com/Innovation-Design-Thinking/) meetup.
+## Welcome to [Innovation and Design Thinking](https://www.meetup.com/Innovation-Design-Thinking/) meetup website.
 
-- [First meetup - August 1st](https://www.meetup.com/Innovation-Design-Thinking/events/241123476/) details.
+## [Code Of Conduct](code-of-conduct.html)
 
-- [Meetup #2 - September 5th](https://www.meetup.com/Innovation-Design-Thinking/events/242411821/) details.
+- [First meetup - August 1st](https://www.meetup.com/Innovation-Design-Thinking/events/241123476/) event details.
+
+- [Meetup #2 - September 5th](https://www.meetup.com/Innovation-Design-Thinking/events/242411821/) event details.
     * [5 Whys](five_why.txt)
 
-- [Meetup #3 - October 3rd](https://www.meetup.com/Innovation-Design-Thinking/events/242486546/) details.
+- [Meetup #3 - October 3rd](https://www.meetup.com/Innovation-Design-Thinking/events/242486546/) event details.
     * [Customer Interviews For Meetup](Customer_Interviews_For_Meetup.pptx)
